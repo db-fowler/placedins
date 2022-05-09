@@ -1,0 +1,11 @@
+@import "reset";
+
+html, body {
+  overflow: hidden;
+  background: transparent;
+  -webkit-user-select: none;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 14px;
+}
+
+@import "animations";
